@@ -39,4 +39,5 @@ password : jwtpass
 # Referência
   - [Secure a Spring Boot REST API With JSON Web Token + Reference to Angular Integration](https://medium.com/@nydiarra/secure-a-spring-boot-rest-api-with-json-web-token-reference-to-angular-integration-e57a25806c50)
   - [How to Secure REST API using Spring Security and OAuth2](http://sivatechlab.com/secure-rest-api-using-spring-security-oauth2/)
+  - [Using JWT with Spring Security OAuth](http://www.baeldung.com/spring-security-oauth-jwt)
 
