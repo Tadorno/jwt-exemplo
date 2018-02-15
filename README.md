@@ -8,6 +8,7 @@ client_secret:XY7kmzoNzl100
 
 usuário:
   username=admin.admin; senha=jwtpass (ADMIN)
+  
   username=john.doe; senha=jwtpass (STANDARD_USER)
 
 # Executar com curl
